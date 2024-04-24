@@ -1,10 +1,13 @@
-## Hello, I'm Daniel
+## Hello, I'm Daniel 👋💻
 ![Gray Modern We Are Hiring Banner](https://github.com/Daniel-Castro-90/Daniel-Castro-90/assets/71676668/6da0fdb4-00ec-45bc-a7fb-8d91580f34a8)
 <p><em>Profesor University Professor in Physics trained at <a href="https://fcyt.uader.edu.ar">Universidad Autónoma de Entre Ríos</a></em>🧑‍🎓</br><em>Full Stack Developer</em>👨‍💻</br><em>Lead Instructor at <a href="https://colombia.generation.org">Generation</a></em>👨‍🏫</p>
 
+### Contact me
 [![Twitter: ca_ddaniel](https://img.shields.io/twitter/follow/ca_ddaniel?style=social)](https://twitter.com/ca_ddaniel)
 [![Linkedin: danielcastroo](https://img.shields.io/badge/-danielcastroo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/danielcastroo/)
-[![GitHub Daniel-Castro-90](https://img.shields.io/github/followers/Daniel-Castro-90?label=follow&style=social)](https://github.com/Daniel-Castro-90)
+[![Correo: castrodanieladr@gmail.com](https://img.shields.io/badge/Email-castrodanieladr%40gmail.com-blue?style=flat&logo=gmail)](mailto:castrodanieladr@gmail.com)
+[![GitHub: Daniel-Castro-90](https://img.shields.io/github/followers/Daniel-Castro-90?label=follow&style=social)](https://github.com/Daniel-Castro-90)
+
 
 
 ### A little more about me 
