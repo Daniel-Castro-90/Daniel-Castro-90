@@ -13,7 +13,11 @@
 const danielCastro = {
   pronouns: ["he", "him"],
   code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java"],
-  tools: ["React", "Vue", "Vite", "Next.js", "Node.js", "SQL", "NoSQL", "Kubernetes", "Docker"],
-  operatingSystems: ["Linux"],
+  tools: [
+          "React", "Vue", "Vite",
+          "Next.js", "Node.js", "npm", "SQL",
+          "NoSQL", "Kubernetes", "Docker", "Postman", "Django", "Git"
+          ],
+  operatingSystems: ["Linux"]
 };
 ```
