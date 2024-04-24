@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2> Hello, I'm Daniel Castro <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlmaHF4YmZzamhxOGZvMnJ2YXR4ZnI4M3JkMTZ1ZmEyd2J2bGhjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xAqHUL21pMHe0/giphy.gif" width="50"></h2>
+<img align='right' src="https://avatars.githubusercontent.com/u/71676668?v=4" width="230">
+<p><em>Profesor University Professor in Physics trained at <a href="https://fcyt.uader.edu.ar">Universidad Autónoma de Entre Ríos</a></em>🧑‍🎓</br><em>Full Stack Developer</em>👨‍💻</br><em>Lead Instructor at <a href="https://colombia.generation.org">Generation</a></em>👨‍🏫</p>
 
-<!--
-**Daniel-Castro-90/Daniel-Castro-90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: ca_ddaniel](https://img.shields.io/twitter/follow/ca_ddaniel?style=social)](https://twitter.com/ca_ddaniel)
+[![Linkedin: danielcastroo](https://img.shields.io/badge/-danielcastroo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/danielcastroo/)
+[![GitHub Daniel-Castro-90](https://img.shields.io/github/followers/Daniel-Castro-90?label=follow&style=social)](https://github.com/Daniel-Castro-90)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me 
+
+```javascript
+const danielCastro = {
+  pronouns: ["he", "him"],
+  code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java"],
+  tools: ["React", "Vue", "Vite", "Next.js", "Node.js", "SQL", "NoSQL", "Kubernetes", "Docker"],
+  operatingSystems: ["Linux"],
+};
+```
