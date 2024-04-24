@@ -13,6 +13,18 @@
 [![Correo: castrodanieladr@gmail.com](https://img.shields.io/badge/Email-castrodanieladr%40gmail.com-blue?style=flat&logo=gmail)](mailto:castrodanieladr@gmail.com)
 [![GitHub: Daniel-Castro-90](https://img.shields.io/github/followers/Daniel-Castro-90?label=follow&style=social)](https://github.com/Daniel-Castro-90)
 
+### Soft Skills
+
+- Trabajo en equipo
+- Comunicación efectiva
+- Resolución de problemas
+- Creatividad
+- Adaptabilidad
+- Pensamiento crítico
+- Empatía
+- Gestión del tiempo
+- Liderazgo
+
 ### A little more about me 
 
 ```javascript
