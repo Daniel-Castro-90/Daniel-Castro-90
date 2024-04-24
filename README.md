@@ -1,5 +1,5 @@
 <h2> Hello, I'm Daniel Castro <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlmaHF4YmZzamhxOGZvMnJ2YXR4ZnI4M3JkMTZ1ZmEyd2J2bGhjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xAqHUL21pMHe0/giphy.gif" width="50"></h2>
-<img align='right' src="https://avatars.githubusercontent.com/u/71676668?v=4" width="230">
+<img align='right' src="https://r2.easyimg.io/3flhs4x5z/gray_modern_we_are_hiring_banner.png" width="230">
 <p><em>Profesor University Professor in Physics trained at <a href="https://fcyt.uader.edu.ar">Universidad Autónoma de Entre Ríos</a></em>🧑‍🎓</br><em>Full Stack Developer</em>👨‍💻</br><em>Lead Instructor at <a href="https://colombia.generation.org">Generation</a></em>👨‍🏫</p>
 
 [![Twitter: ca_ddaniel](https://img.shields.io/twitter/follow/ca_ddaniel?style=social)](https://twitter.com/ca_ddaniel)
