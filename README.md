@@ -2,7 +2,7 @@
 
 ![Gray Modern We Are Hiring Banner](https://github.com/Daniel-Castro-90/Daniel-Castro-90/assets/71676668/6da0fdb4-00ec-45bc-a7fb-8d91580f34a8)
 
-<p><em>Profesor University Professor in Physics trained at <a href="https://fcyt.uader.edu.ar">Universidad Autónoma de Entre Ríos</a>🧑‍🎓</br>
+<p><em>University Professor in Physics trained at <a href="https://fcyt.uader.edu.ar">Universidad Autónoma de Entre Ríos</a>🧑‍🎓</br>
 <em>Full Stack Developer</em>👨‍💻</br>
 <em>Lead Instructor at <a href="https://colombia.generation.org">Generation</a></em>👨‍🏫</p>
 
